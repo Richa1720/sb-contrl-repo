@@ -8,6 +8,7 @@ public class SbContrlRepoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbContrlRepoApplication.class, args);
+		System.out.println("Hi, change 1 ... to sb-ctrl-rep-new-branch....");
 	}
 
 }
